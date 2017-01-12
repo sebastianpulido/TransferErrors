@@ -1,5 +1,5 @@
-parent_path=/afs/cern.ch/user/j/jpulidom/transferteam/scripts/TransferErrors-master
-www_path=/afs/cern.ch/user/j/jpulidom/www/
+parent_path=/afs/cern.ch/user/c/cmstteam/transferteam/TransferErrors
+www_path=/afs/cern.ch/user/c/cmstteam/www/
 cd $parent_path
 source ./setup.sh
 #echo "pythonpath:" $PYTHONPATH
